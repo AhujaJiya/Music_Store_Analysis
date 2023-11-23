@@ -38,11 +38,13 @@ The project is organized as follows:
 ## Running the Queries
 To run the SQL queries and reproduce the analysis:
 
-**Database Setup:** Ensure you have a SQL database set up (e.g., PostgreSQL, MySQL) and the necessary permissions.
+- **Database Setup:** Ensure you have a SQL database set up (e.g., PostgreSQL, MySQL) and the necessary permissions.
 
-**Import Data:** Import the provided dataset into your database.
+- **Import Data:** Import the provided dataset into your database.
 
-**Execute Queries:** Run each SQL query in the "SQL Queries" folder, examining the results for insights.
+- **Execute Queries:** Run each SQL query in the "SQL Queries" folder, examining the results for insights.
+
+
 
 
 This project was created as part of a learning experience and may be continuously updated.
